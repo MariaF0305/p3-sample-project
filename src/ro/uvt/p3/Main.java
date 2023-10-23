@@ -5,6 +5,7 @@ import ro.uvt.p3.io.OutputDevice;
 
 public class Main {
 
+    //doing changes to the initial program
     public static void main(String[] args) {
         InputDevice id = new InputDevice();
         OutputDevice od = new OutputDevice();
